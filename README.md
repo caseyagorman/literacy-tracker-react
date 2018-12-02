@@ -1,3 +1,5 @@
+This projet makes no call to the server and uses a dummy list. It is for trying out react components only
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
